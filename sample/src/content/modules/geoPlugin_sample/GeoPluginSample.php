@@ -8,6 +8,6 @@ class GeoPluginSample extends Controller
         ob_start();
         $controller = ModuleHelper::getMainController("geoPlugin");
         var_dump($controller->getGeoLocation());
-        return ob_get_clean();
+        return nl2br(htmlspecialchars(ob_get_clean()));
     }
 }

@@ -1,0 +1,10 @@
+{
+	"id": "geoPlugin_sample",
+	"version": "1.0",
+	"description": "geoPlugin",
+	"categories": [
+		"geolocation"
+	],
+	"compatible_from": "2017.1",
+	"dependencies": "geoPlugin"
+}

@@ -1,7 +1,7 @@
 {
 	"source": "extend",
 	"version": "1.0",
-	"embed": false,
+	"embed": true,
 	"controllers": {
 		"GeoPluginSample": "GeoPluginSample.php"
 	},

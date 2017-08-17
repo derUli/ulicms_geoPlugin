@@ -1,7 +1,9 @@
 {
 	"id": "geoPlugin",
-	"version": "1.0",
+	"version": "1.1",
 	"description": "geoPlugin",
-	"categories": [ "geolocation"],
+	"categories": [
+		"geolocation"
+	],
 	"compatible_from": "2017.1"
 }
